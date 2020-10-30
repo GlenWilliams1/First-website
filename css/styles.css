@@ -1,0 +1,46 @@
+
+body{
+	font-family: 'courier' , monospace;
+}
+
+#wrapper{
+	width: 960px;
+	height:1000px;
+	margin: 0 auto;
+	background-color: #006400;
+}
+
+#header{
+	width: 100%;
+	height: 50%;
+	
+}
+#sidebar{
+	width: 15%;
+	height: 85%;
+	background-color: Green;
+	float: left;
+
+}
+
+#main{
+    width: 85%;
+    height: 100%;
+    background-image: url("../images/Mountain Range.jpg");
+	width:815px;
+	Height:850px;
+    background-repeat: y-repeat;
+    float: left;
+}
+
+a{
+    display: block;
+}
+
+.BrownBear{
+    float: Right;
+}
+
+h1, a, img, p{
+	padding: 15px;
+}
